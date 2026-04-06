@@ -1,6 +1,6 @@
 # 🌟 QueryNest – Ask. Answer. Grow.
 
-## 📁 [Project Demonstration & Report](https://drive.google.com/drive/folders/1_HkmtTXjw3AzM69C9ImTdoGYYJH0Dvl1) 
+## 📁 [Project Demonstration & Report]
 ---
 
 ## 📖 Overview  
